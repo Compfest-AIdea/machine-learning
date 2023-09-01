@@ -25,3 +25,26 @@ Mapping label:
 Output Tampilan <br>
 Slight Hair Loss <br>
 0.9999972581863403
+
+## Model Hairloss
+Contoh Input <br>
+- image1: valid,
+- image2: valid,
+- image3: valid,
+- image4: valid,
+- image5: valid <br>
+
+Output Model <br>
+[[7.1049097e-04, 3.8028753e-04, 1.4329808e-03, 9.9747437e-01, 1.8849778e-06]] <br>
+
+Dari output model, diambil nilai max. Pada contoh di atas, adalah 9.9747437e-01 pada index 3. <br><br>
+Mapping label:
+  - Index 0 : alopecia-areata
+  - Index 1 : normal
+  - Index 2 : scalp-psoriasis
+  - Index 3 : seborrhoeic-dermatitis
+  - Index 4 : tinea-capitis <br>
+
+Output Tampilan <br>
+seborrhoeic-dermatitis <br>
+0.99747437
