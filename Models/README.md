@@ -28,11 +28,7 @@ Slight Hair Loss <br>
 
 ## Model Hairloss
 Contoh Input <br>
-- image1: valid,
-- image2: valid,
-- image3: valid,
-- image4: valid,
-- image5: valid <br>
+- image1: valid <br>
 
 Output Model <br>
 [[7.1049097e-04, 3.8028753e-04, 1.4329808e-03, 9.9747437e-01, 1.8849778e-06]] <br>
