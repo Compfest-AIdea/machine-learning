@@ -26,7 +26,7 @@ Output Tampilan <br>
 Slight Hair Loss <br>
 0.9999972581863403
 
-## Model Hairloss
+## Model Scalp Disease
 Contoh Input <br>
 - image1: valid <br>
 
