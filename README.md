@@ -31,7 +31,7 @@ Metrik evaluasi model sebagai berikut.
 ![image](https://github.com/Compfest-AIdea/machine-learning/assets/96944447/b486eeac-6465-47b5-b8a1-6715de6c956b)
 
 ### Hairloss Model
-Model klasifikasi gambar penyakit kulit kepala dibuat dengan Tensorflow. <br>
+Model klasifikasi tingkat kerontokan rambut dibuat dengan Tensorflow. <br>
 Arsitektur model sebagai berikut.
 - Input layer (shape = 8)
 - Dense layer (unit = 64, activation = 'relu')
