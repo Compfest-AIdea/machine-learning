@@ -30,6 +30,9 @@ Metrik evaluasi model sebagai berikut.
 
 ![image](https://github.com/Compfest-AIdea/machine-learning/assets/96944447/b486eeac-6465-47b5-b8a1-6715de6c956b)
 
+Normalized confusion matrix pada test data <br>
+<img src="https://github.com/Compfest-AIdea/machine-learning/assets/96944447/a662e338-001e-4973-acc3-81798600dc6c" width="370" />
+
 ### Hairloss Model
 Model klasifikasi tingkat kerontokan rambut dibuat dengan Tensorflow. <br>
 Arsitektur model sebagai berikut.
@@ -47,3 +50,6 @@ Metrik evaluasi model sebagai berikut. <br>
 
 <img src="https://github.com/Compfest-AIdea/machine-learning/assets/96944447/897a2ab4-8eff-47be-9b89-5324e8b613d0" width="370" />
 <img src="https://github.com/Compfest-AIdea/machine-learning/assets/96944447/e5d4b179-9d55-4ba7-a2a7-5af521d8d9f2" width="370" />
+
+Normalized confusion matrix pada test data <br>
+<img src="https://github.com/Compfest-AIdea/machine-learning/assets/96944447/4b0064b6-1059-4baf-82dc-e883563fc5f6" width="500" />
